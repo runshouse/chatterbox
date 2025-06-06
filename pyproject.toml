@@ -1,6 +1,6 @@
 [project]
 name = "chatterbox-tts"
-version = "0.1.2-colab"
+version = "0.1.2.dev0"
 description = "Chatterbox: Open Source TTS and Voice Conversion by Resemble AI (Colab Compatible)"
 readme = "README.md"
 requires-python = ">=3.8"
